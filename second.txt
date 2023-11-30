@@ -1,0 +1,3 @@
+frist slide : .
+the second slide : la source
+third slide : merge them in the middle
